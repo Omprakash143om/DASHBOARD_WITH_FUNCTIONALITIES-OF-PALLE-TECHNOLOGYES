@@ -1,9 +1,6 @@
 # DASHBOARD_WITH_FUNCTIONALITIES-OF-PALLE-TECHNOLOGYES
 
 
-
-Here is your full **Palle Dashboard Project Overview** in clean text format:
-
 ---
 
 **Welcome to Palle Dashboard**
